@@ -166,11 +166,11 @@ public class OverlayService extends Service {
         if (mGamingFloatingLayout != null && mGamingFBLayoutParams != null) {
             int defaultX = ((int) getResources().getDimension(R.dimen.game_button_size) - ScreenUtil.getScreenWidth()) / 2;
             if (ScreenUtil.isPortrait()) {
-                mGamingFBLayoutParams.x = mPreferences.getInt(Constants.LocalConfigKeys.FLOATING_BUTTON_COORDINATE_VERTICAL_X, defaultX);
-                mGamingFBLayoutParams.y = mPreferences.getInt(Constants.LocalConfigKeys.FLOATING_BUTTON_COORDINATE_VERTICAL_Y, 10);
+                mGamingFBLayoutParams.x = mPreferences.getInt(Constants.LocalConfigKeys.FLOATING_BUTTON_COORDINATE_VERTICAL_X, 0);
+                mGamingFBLayoutParams.y = mPreferences.getInt(Constants.LocalConfigKeys.FLOATING_BUTTON_COORDINATE_VERTICAL_Y, 0);
             } else {
-                mGamingFBLayoutParams.x = mPreferences.getInt(Constants.LocalConfigKeys.FLOATING_BUTTON_COORDINATE_HORIZONTAL_X, defaultX);
-                mGamingFBLayoutParams.y = mPreferences.getInt(Constants.LocalConfigKeys.FLOATING_BUTTON_COORDINATE_HORIZONTAL_Y, 10);
+                mGamingFBLayoutParams.x = mPreferences.getInt(Constants.LocalConfigKeys.FLOATING_BUTTON_COORDINATE_HORIZONTAL_X, 0);
+                mGamingFBLayoutParams.y = mPreferences.getInt(Constants.LocalConfigKeys.FLOATING_BUTTON_COORDINATE_HORIZONTAL_Y, 0);
             }
             if (mWindowManager != null) {
                 mWindowManager.updateViewLayout(mGamingFloatingLayout, mGamingFBLayoutParams);
