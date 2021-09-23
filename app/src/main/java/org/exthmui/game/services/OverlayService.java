@@ -63,7 +63,7 @@ public class OverlayService extends Service {
     private static final int FLOATING_BUTTON_HIDE_DELAY = 1000;
 
     /** Default alpha value for hiding the floating button hidden */
-    private static final float FLOATING_BUTTON_HIDE_ALPHA = 0.1f;
+    private static final float FLOATING_BUTTON_HIDE_ALPHA = 0.5f;
 
     private View mGamingFloatingLayout;
     private ImageView mGamingFloatingButton;
