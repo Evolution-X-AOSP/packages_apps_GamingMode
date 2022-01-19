@@ -79,4 +79,10 @@
     <string name="performance_level">Performance level</string>
     <string name="gaming_mode_miscellaneous">Miscellaneous</string>
     <string name="gaming_mode_disable_adb_title">Disable USB debugging</string>
+
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">by default</string>
+    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
+    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
 </resources>

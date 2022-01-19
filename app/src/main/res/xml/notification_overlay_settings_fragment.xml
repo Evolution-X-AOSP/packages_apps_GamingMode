@@ -30,7 +30,7 @@
         android:summary="@string/gaming_mode_dynamic_notification_filter_summary"
         android:defaultValue="true" />
 
-    <com.krypton.settings.preference.CustomSeekBarPreference
+    <com.evolution.settings.preference.CustomSeekBarPreference
         android:key="gaming_mode_notification_size_landscape"
         android:title="@string/gaming_mode_notification_overlay_size_landscape_title"
         android:defaultValue="90"
@@ -39,7 +39,7 @@
         app:units="px"
         app:interval="5" />
 
-    <com.krypton.settings.preference.CustomSeekBarPreference
+    <com.evolution.settings.preference.CustomSeekBarPreference
         android:key="gaming_mode_notification_size_portrait"
         android:title="@string/gaming_mode_notification_overlay_size_portrait_title"
         android:defaultValue="60"

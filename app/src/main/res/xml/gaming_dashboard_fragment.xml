@@ -24,7 +24,7 @@
         android:selectable="false"
         android:persistent="false" />
 
-    <com.krypton.settings.preference.SystemSettingMainSwitchPreference
+    <com.evolution.settings.preference.SystemSettingMainSwitchPreference
         android:key="gaming_mode_enabled"
         android:title="@string/enable_gaming_mode"
         android:defaultValue="false" />
@@ -36,7 +36,7 @@
         android:fragment="org.exthmui.game.fragment.GamingModeAppListFragment"
         android:persistent="false" />
 
-    <com.krypton.settings.preference.SystemSettingSwitchPreference
+    <com.evolution.settings.preference.SystemSettingSwitchPreference
         android:key="gaming_mode_dynamic_add"
         android:title="@string/gaming_mode_dynamic_add_title"
         android:summary="@string/gaming_mode_dynamic_add_summary"
@@ -61,7 +61,7 @@
         android:summary="@string/gaming_mode_use_overlay_menu_summary"
         android:defaultValue="1" />
 
-    <com.krypton.settings.preference.CustomSeekBarPreference
+    <com.evolution.settings.preference.CustomSeekBarPreference
         android:key="gaming_mode_menu_opacity"
         android:title="@string/gaming_mode_menu_opacity_title"
         android:defaultValue="75"
@@ -80,7 +80,7 @@
             android:summary="@string/gaming_mode_change_performance_summary"
             android:defaultValue="true" />
 
-        <com.krypton.settings.preference.CustomSeekBarPreference
+        <com.evolution.settings.preference.CustomSeekBarPreference
             android:key="gaming_mode_performance_level"
             android:title="@string/gaming_mode_performance_title"
             android:dependency="gaming_mode_change_performance_level"
@@ -92,7 +92,7 @@
     <PreferenceCategory
         android:title="@string/gaming_mode_dnd">
 
-        <com.krypton.settings.preference.SystemSettingSwitchPreference
+        <com.evolution.settings.preference.SystemSettingSwitchPreference
             android:key="gaming_mode_disable_notification_alert"
             android:title="@string/gaming_mode_disable_notification_alert_title"
             android:summary="@string/gaming_mode_disable_notification_alert_summary"
@@ -124,7 +124,7 @@
     <PreferenceCategory
         android:title="@string/gaming_mode_miscellaneous">
 
-        <com.krypton.settings.preference.SystemSettingSwitchPreference
+        <com.evolution.settings.preference.SystemSettingSwitchPreference
             android:key="gaming_mode_disable_adb"
             android:title="@string/gaming_mode_disable_adb_title"
             android:defaultValue="false" />
