@@ -48,7 +48,7 @@
 
         <receiver
             android:name=".receiver.GamingBroadcastReceiver"
-            android:exported="false">
+            android:exported="true">
             <intent-filter>
                 <action android:name="exthmui.intent.action.GAMING_MODE_ON" />
                 <action android:name="exthmui.intent.action.GAMING_MODE_OFF" />
@@ -57,15 +57,15 @@
 
         <service
             android:name=".services.GamingService"
-            android:exported="false" />
+            android:exported="true" />
 
         <service android:name=".services.DeviceStateListenerService"
-            android:exported="false" />
+            android:exported="true" />
 
         <service
             android:name=".services.NotificationService"
             android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE"
-            android:exported="false">
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.service.notification.NotificationListenerService" />
             </intent-filter>
