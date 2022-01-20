@@ -25,6 +25,6 @@
 
     <style name="Theme.AlertDialog" parent="Theme.AlertDialog.Base">
         <item name="android:windowSoftInputMode">stateHidden</item>
-        <item name="android:windowMinWidthMajor">45%</item>
+        <item name="android:windowMinWidthMajor">50%</item>
     </style>
 </resources>
