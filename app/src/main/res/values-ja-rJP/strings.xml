@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The exTHmUI Open Source Project
+     Copyright (C) 2021 AOSP-Krypton Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="game_space">ゲームスペース</string>
+    <string name="channel_gaming_mode_status">ゲームモードの状態</string>
+    <string name="action_stop_gaming_mode">停止</string>
+    <string name="gaming_mode_active">ゲームモードは有効です</string>
+    <string name="battery_format">バッテリー: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">パフォーマンス</string>
+    <string name="power_save">省電力</string>
+    <string name="qs_auto_brightness">明るさ自動調節</string>
+    <string name="qs_notification_overlay">通知オーバーレイ</string>
+    <string name="qs_ringer_mode">サイレントモード</string>
+    <string name="qs_lock_gesture">ロックジェスチャー</string>
+    <string name="qs_screen_capture">スクリーンショット</string>
+    <string name="enable_gaming_mode">ゲームモードの有効化</string>
+    <string name="gaming_mode_intro_text">没入型ゲーム体験のための追加機能を設定する</string>
+    <string name="gaming_mode_disable_auto_brightness_title">自動明るさ調節の無効化</string>
+    <string name="gaming_mode_disable_auto_brightness_summary">ゲームモード時に自動明るさ調節を無効にする</string>
+    <string name="gaming_mode_notification_overlay_title">通知オーバーレイ</string>
+    <string name="gaming_mode_notification_overlay_summary">上部に透明なオーバーレイとして通知内容を表示する</string>
+    <string name="gaming_mode_menu_opacity_title">オーバーレイメニューの不透明度</string>
+    <string name="gaming_mode_performance">パフォーマンス</string>
+    <string name="gaming_mode_change_performance_title">パフォーマンスチューニング</string>
+    <string name="gaming_mode_change_performance_summary">ゲーム開始時のパフォーマンスレベルを調整する</string>
+    <string name="gaming_mode_performance_title">パフォーマンスレベル</string>
+    <string name="gaming_mode_dnd">Do Not Disturb</string>
+    <string name="gaming_mode_disable_notification_alert_title">通知の無効化</string>
+    <string name="gaming_mode_disable_notification_alert_summary">着信をアラーム以外の通知の表示と会話のバブルを表示しない</string>
+    <string name="gaming_mode_disable_ringtone_title">着信の無音化</string>
+    <string name="gaming_mode_disable_ringtone_summary">ゲームモード中は着信の呼び出しと通知を無効にする</string>
+    <string name="gaming_mode_auto_answer_call_title">通話の自動応答</string>
+    <string name="gaming_mode_auto_answer_call_summary">ゲーム中は通話に自動応答してヘッドセットが接続されていない時はハンズフリーにする</string>
+    <string name="gaming_mode_prevent_accidental_touch">誤タッチ防止</string>
+    <string name="gaming_mode_disable_gesture_title">スワイプ ジェスチャーの無効化</string>
+    <string name="gaming_mode_apps_title">ゲームリスト</string>
+    <string name="gaming_mode_apps_summary">ゲームモードで起動するアプリを選択する</string>
+    <string name="gaming_mode_dynamic_add_title">ダイナミックモード</string>
+    <string name="gaming_mode_dynamic_add_summary">起動時にゲームを自動検出し自動的にリストに加える</string>
+    <string name="gaming_mode_show_notification_overlay_title">通知オーバーレイの有効化</string>
+    <string name="gaming_mode_dynamic_notification_filter_title">動的な通知フィルタリング</string>
+    <string name="gaming_mode_dynamic_notification_filter_summary">ダウンロードの進行状況などの通知を自動的にフィルターする</string>
+    <string name="gaming_mode_notification_overlay_size_landscape_title">横画面時のオーバーレイサイズ</string>
+    <string name="gaming_mode_notification_overlay_size_portrait_title">縦画面時のオーバーレイサイズ</string>
+    <string name="gaming_mode_notification_overlay_blacklist_title">ブラックリストのアプリ</string>
+    <string name="gaming_mode_notification_overlay_blacklist_summary">選択したアプリがゲーム中に通知をオーバーレイ表示しないようする</string>
+    <string name="search">検索</string>
+    <string name="search_apps">アプリを検索</string>
+    <string name="application_icon">アプリのアイコン</string>
+    <string name="performance_level">パフォーマンスレベル</string>
+    <string name="gaming_mode_miscellaneous">その他</string>
+    <string name="gaming_mode_disable_adb_title">USB デバッグの無効化</string>
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">値: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">既定</string>
+    <string name="custom_seekbar_default_value_to_set">既定値: <xliff:g id="v">%s</xliff:g>\n長押しで設定</string>
+    <string name="custom_seekbar_default_value_is_set">既定値が設定されています</string>
+</resources>
