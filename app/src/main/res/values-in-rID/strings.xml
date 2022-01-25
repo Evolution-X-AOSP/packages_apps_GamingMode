@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The exTHmUI Open Source Project
+     Copyright (C) 2021 AOSP-Krypton Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="game_space">Ruang Permainan</string>
+    <string name="channel_gaming_mode_status">Status mode permainan</string>
+    <string name="action_stop_gaming_mode">Berhenti</string>
+    <string name="gaming_mode_active">Mode permainan aktif</string>
+    <string name="battery_format">Baterai: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">Kinerja</string>
+    <string name="power_save">Hemat daya</string>
+    <string name="qs_auto_brightness">Kecerahan Otomatis</string>
+    <string name="qs_notification_overlay">Hamparan notifikasi</string>
+    <string name="qs_ringer_mode">Mode senyap</string>
+    <string name="qs_lock_gesture">Kunci gestur</string>
+    <string name="qs_screen_capture">Tangkapan Layar</string>
+    <string name="enable_gaming_mode">Aktifkan Mode Permainan</string>
+    <string name="gaming_mode_intro_text">Fitur ekstra untuk pengalaman bermain game yang impresif</string>
+    <string name="gaming_mode_disable_auto_brightness_title">Nonaktifkan kecerahan otomatis</string>
+    <string name="gaming_mode_disable_auto_brightness_summary">Nonaktifkan kecerahan otomatis saat memasuki mode permainan</string>
+    <string name="gaming_mode_notification_overlay_title">Hamparan notifikasi</string>
+    <string name="gaming_mode_notification_overlay_summary">Tampilkan konten notifikasi sebagai hamparan transparan di atas</string>
+    <string name="gaming_mode_menu_opacity_title">Tingkat opasitas hamparan menu</string>
+    <string name="gaming_mode_performance">Kinerja</string>
+    <string name="gaming_mode_change_performance_title">Penyesuaian kinerja</string>
+    <string name="gaming_mode_change_performance_summary">Sesuaikan tingkat kinerja saat memulai game</string>
+    <string name="gaming_mode_performance_title">Tingkat kinerja</string>
+    <string name="gaming_mode_dnd">Jangan Ganggu</string>
+    <string name="gaming_mode_disable_notification_alert_title">Nonaktifkan peringatan notifikasi</string>
+    <string name="gaming_mode_disable_notification_alert_summary">Jangan izinkan notifikasi mengambang dan gelembung percakapan selain panggilan masuk dan alarm</string>
+    <string name="gaming_mode_disable_ringtone_title">Tidak berdering</string>
+    <string name="gaming_mode_disable_ringtone_summary">Matikan dering panggilan masuk dan notifikasi dalam mode permainan</string>
+    <string name="gaming_mode_auto_answer_call_title">Menjawab panggilan otomatis</string>
+    <string name="gaming_mode_auto_answer_call_summary">Jawab panggilan secara otomatis dalam game dan handsfree saat tidak ada headphone yang terhubung</string>
+    <string name="gaming_mode_prevent_accidental_touch">Cegah sentuhan yang tidak disengaja</string>
+    <string name="gaming_mode_disable_gesture_title">Nonaktifkan gestur usap</string>
+    <string name="gaming_mode_apps_title">Daftar game</string>
+    <string name="gaming_mode_apps_summary">Pilih aplikasi untuk meluncurkan mode permainan saat Anda membukanya</string>
+    <string name="gaming_mode_dynamic_add_title">Mode dinamis</string>
+    <string name="gaming_mode_dynamic_add_summary">Mendeteksi game saat dibuka dan secara otomatis menambahkannya ke daftar</string>
+    <string name="gaming_mode_show_notification_overlay_title">Aktifkan hamparan notifikasi</string>
+    <string name="gaming_mode_dynamic_notification_filter_title">Notifikasi pemfilteran dinamis</string>
+    <string name="gaming_mode_dynamic_notification_filter_summary">Secara otomatis menyaring notifikasi seperti kemajuan unduhan</string>
+    <string name="gaming_mode_notification_overlay_size_landscape_title">Ukuran hamparan dalam mode lanskap</string>
+    <string name="gaming_mode_notification_overlay_size_portrait_title">Ukuran hamparan dalam mode potret</string>
+    <string name="gaming_mode_notification_overlay_blacklist_title">Aplikasi dalam daftar hitam</string>
+    <string name="gaming_mode_notification_overlay_blacklist_summary">Cegah aplikasi yang dipilih agar tidak menampilkan hamparan notifikasi saat bermain game</string>
+    <string name="search">Cari</string>
+    <string name="search_apps">Cari aplikasi</string>
+    <string name="application_icon">Ikon aplikasi</string>
+    <string name="performance_level">Tingkat kinerja</string>
+    <string name="gaming_mode_miscellaneous">Lain-lain</string>
+    <string name="gaming_mode_disable_adb_title">Nonaktifkan USB debugging</string>
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Nilai: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">bawaan</string>
+    <string name="custom_seekbar_default_value_to_set">Nilai bawaan: <xliff:g id="v">%s</xliff:g>\nTekan lama untuk menerapkan</string>
+    <string name="custom_seekbar_default_value_is_set">Nilai bawaan telah diterapkan</string>
+</resources>
