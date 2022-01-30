@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The exTHmUI Open Source Project
+     Copyright (C) 2021 AOSP-Krypton Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="game_space">Game space</string>
+    <string name="channel_gaming_mode_status">Gaming modus status</string>
+    <string name="action_stop_gaming_mode">Stop</string>
+    <string name="gaming_mode_active">Gaming modus is actief</string>
+    <string name="battery_format">Batterij: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">Prestaties</string>
+    <string name="power_save">Energiebesparing</string>
+    <string name="qs_auto_brightness">Automatische helderheid</string>
+    <string name="qs_notification_overlay">Notificatie overlay</string>
+    <string name="qs_ringer_mode">Stille modus</string>
+    <string name="qs_lock_gesture">Gebaar vergrendelen</string>
+    <string name="qs_screen_capture">Schermafdruk</string>
+    <string name="enable_gaming_mode">Activeer gaming modus</string>
+    <string name="gaming_mode_intro_text">Extra functies voor de volledige game ervaring</string>
+    <string name="gaming_mode_disable_auto_brightness_title">Automatische helderheid uitschakelen</string>
+    <string name="gaming_mode_disable_auto_brightness_summary">Automatische helderheid uitschakelen bij het aanzetten van gaming modus</string>
+    <string name="gaming_mode_notification_overlay_title">Notificatie overlay</string>
+    <string name="gaming_mode_notification_overlay_summary">Geef de inhoud van de notificatie weer als transparante overlay bovenaan</string>
+    <string name="gaming_mode_menu_opacity_title">Overlay menu transparantieniveau</string>
+    <string name="gaming_mode_performance">Prestaties</string>
+    <string name="gaming_mode_change_performance_title">Prestaties afstemmen</string>
+    <string name="gaming_mode_change_performance_summary">Prestatieniveau aanpassen bij het starten van game</string>
+    <string name="gaming_mode_performance_title">Prestatieniveau</string>
+    <string name="gaming_mode_dnd">Niet storen</string>
+    <string name="gaming_mode_disable_notification_alert_title">Meldingen uitschakelen</string>
+    <string name="gaming_mode_disable_notification_alert_summary">Zwevende melding en gespreksbubbels niet toestaan behalve inkomende oproepen en alarmen</string>
+    <string name="gaming_mode_disable_ringtone_title">Geen beltoon</string>
+    <string name="gaming_mode_disable_ringtone_summary">Schakel de beltoon van inkomende oproepen en meldingen uit in gaming modus</string>
+    <string name="gaming_mode_auto_answer_call_title">Oproepen automatisch opnemen</string>
+    <string name="gaming_mode_auto_answer_call_summary">Oproepen automatisch in de game beantwoorden als er geen koptelefoon is aangesloten</string>
+    <string name="gaming_mode_prevent_accidental_touch">Onbedoelde aanraking voorkomen</string>
+    <string name="gaming_mode_disable_gesture_title">Veeggebaren uitschakelen</string>
+    <string name="gaming_mode_apps_title">Gamelijst</string>
+    <string name="gaming_mode_apps_summary">Selecteer apps om gaming modus te starten wanneer je ze opent</string>
+    <string name="gaming_mode_dynamic_add_title">Dynamische modus</string>
+    <string name="gaming_mode_dynamic_add_summary">Detecteert spellen bij het openen en voegt ze automatisch toe aan de lijst</string>
+    <string name="gaming_mode_show_notification_overlay_title">Melding overlay inschakelen</string>
+    <string name="gaming_mode_dynamic_notification_filter_title">Dynamische filter melding</string>
+    <string name="gaming_mode_dynamic_notification_filter_summary">Automatisch filteren van meldingen zoals download voortgang</string>
+    <string name="gaming_mode_notification_overlay_size_landscape_title">Grootte overlay in liggende modus</string>
+    <string name="gaming_mode_notification_overlay_size_portrait_title">Grootte overlay in portretmodus</string>
+    <string name="gaming_mode_notification_overlay_blacklist_title">Apps op de zwarte lijst</string>
+    <string name="gaming_mode_notification_overlay_blacklist_summary">Voorkom dat geselecteerde apps de melding overlay weergeven tijdens gaming</string>
+    <string name="search">Zoeken</string>
+    <string name="search_apps">Apps zoeken</string>
+    <string name="application_icon">App-pictogram</string>
+    <string name="performance_level">Prestatieniveau</string>
+    <string name="gaming_mode_miscellaneous">Overige</string>
+    <string name="gaming_mode_disable_adb_title">Usb-foutopsporing uitschakelen</string>
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Waarde: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">standaard</string>
+    <string name="custom_seekbar_default_value_to_set">Standaard waarde: <xliff:g id="v">%s</xliff:g>\nLang indrukken om in te stellen</string>
+    <string name="custom_seekbar_default_value_is_set">Standaard waarde is ingesteld</string>
+</resources>
