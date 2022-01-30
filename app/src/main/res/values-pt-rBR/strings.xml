@@ -67,7 +67,7 @@
     <string name="gaming_mode_disable_adb_title">Desativar a depuração USB</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Valor: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">valor padrão</string>
+    <string name="custom_seekbar_default_value">por padrão</string>
     <string name="custom_seekbar_default_value_to_set">Valor padrão: <xliff:g id="v">%s</xliff:g>\nToque longo para definir</string>
     <string name="custom_seekbar_default_value_is_set">Valor padrão definido</string>
 </resources>

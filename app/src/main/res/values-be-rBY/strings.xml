@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The exTHmUI Open Source Project
+     Copyright (C) 2021 AOSP-Krypton Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="game_space">Гульнявы рэжым</string>
+    <string name="channel_gaming_mode_status">Статус гульнявога рэжыму</string>
+    <string name="action_stop_gaming_mode">Спыніць</string>
+    <string name="gaming_mode_active">Гульнявы рэжым актыўны</string>
+    <string name="battery_format">Батарэя: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">Прадукцыйнасць</string>
+    <string name="power_save">Энергазберажэнне</string>
+    <string name="qs_auto_brightness">Аўтаматычная яркасць</string>
+    <string name="qs_notification_overlay">Накладанне апавяшчэнняў</string>
+    <string name="qs_ringer_mode">Бязгучны рэжым</string>
+    <string name="qs_lock_gesture">Жэст блакіроўкі</string>
+    <string name="qs_screen_capture">Здымак экрана</string>
+    <string name="enable_gaming_mode">Уключыць гульнявы ​​рэжым</string>
+    <string name="gaming_mode_intro_text">Дадатковыя магчымасці для захапляльнага гульнявога вопыту</string>
+    <string name="gaming_mode_disable_auto_brightness_title">Адключыць аўтаматычную яркасць</string>
+    <string name="gaming_mode_disable_auto_brightness_summary">Адключыце аўтаматычную яркасць пры ўваходзе ў гульнявы ​​рэжым</string>
+    <string name="gaming_mode_notification_overlay_title">Накладанне апавяшчэнняў</string>
+    <string name="gaming_mode_notification_overlay_summary">Адлюстраванне змесціва апавяшчэння ў выглядзе празрыстага накладання зверху</string>
+    <string name="gaming_mode_menu_opacity_title">Узровень празрыстасці меню накладання</string>
+    <string name="gaming_mode_performance">Прадукцыйнасць</string>
+    <string name="gaming_mode_change_performance_title">Настройка прадукцыйнасці</string>
+    <string name="gaming_mode_change_performance_summary">Настройка ўзроўню прадукцыйнасці пры запуску гульні</string>
+    <string name="gaming_mode_performance_title">Узровень прадукцыйнасці</string>
+    <string name="gaming_mode_dnd">Не турбаваць</string>
+    <string name="gaming_mode_disable_notification_alert_title">Адключыць абвестку апавяшчэнняў</string>
+    <string name="gaming_mode_disable_notification_alert_summary">Не дазваляць плаваючыя бурбалкі апавяшчэнняў і размоў, акрамя ўваходных выклікаў і будзільніка</string>
+    <string name="gaming_mode_disable_ringtone_title">Не тэлефанаваць</string>
+    <string name="gaming_mode_disable_ringtone_summary">Адключэнне сігналу ўваходных званкоў і апавяшчэнняў у гульнявым рэжыме</string>
+    <string name="gaming_mode_auto_answer_call_title">Аўтаматычны адказ на званкі</string>
+    <string name="gaming_mode_auto_answer_call_summary">Адказвайце на званкі аўтаматычна ў гульні і ў рэжыме гучнай сувязі, калі навушнікі не падключаны</string>
+    <string name="gaming_mode_prevent_accidental_touch">Прадухіляць выпадковае ўключэнне</string>
+    <string name="gaming_mode_disable_gesture_title">Адключэнне жэстаў прагортвання</string>
+    <string name="gaming_mode_apps_title">Спіс гульняў</string>
+    <string name="gaming_mode_apps_summary">Абярыце праграмы, пры адкрыцці якіх будзе запускацца гульнявы ​​рэжым</string>
+    <string name="gaming_mode_dynamic_add_title">Дынамічны рэжым</string>
+    <string name="gaming_mode_dynamic_add_summary">Выяўляе гульні пры адкрыцці і аўтаматычна дадае іх у спіс</string>
+    <string name="gaming_mode_show_notification_overlay_title">Уключыць накладанне апавяшчэнняў</string>
+    <string name="gaming_mode_dynamic_notification_filter_title">Дынамічны фільтр апавяшчэнняў</string>
+    <string name="gaming_mode_dynamic_notification_filter_summary">Аўтаматычнае фільтраванне апавяшчэнняў, такіх як прагрэс загрузкі</string>
+    <string name="gaming_mode_notification_overlay_size_landscape_title">Памер накладання ў ландшафтным рэжыме</string>
+    <string name="gaming_mode_notification_overlay_size_portrait_title">Памер накладання ў партрэтным рэжыме</string>
+    <string name="gaming_mode_notification_overlay_blacklist_title">Чорны спіс праграм</string>
+    <string name="gaming_mode_notification_overlay_blacklist_summary">Забараніць паказ апавяшчэнняў выбраным праграмам падчас гульні</string>
+    <string name="search">Пошук</string>
+    <string name="search_apps">Пошук праграм</string>
+    <string name="application_icon">Значок праграмы</string>
+    <string name="performance_level">Узровень прадукцыйнасці</string>
+    <string name="gaming_mode_miscellaneous">Іншае</string>
+    <string name="gaming_mode_disable_adb_title">Адключыць адладку USB</string>
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Значэнне: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">па змаўчанні</string>
+    <string name="custom_seekbar_default_value_to_set">Значэнне па змаўчанні: <xliff:g id="v">%s</xliff:g>\nУтрымлівайце для ўсталёўкі</string>
+    <string name="custom_seekbar_default_value_is_set">Значэнне па змаўчанні ўжо ўсталявана</string>
+</resources>
