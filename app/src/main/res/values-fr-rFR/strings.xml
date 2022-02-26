@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The exTHmUI Open Source Project
+     Copyright (C) 2021 AOSP-Krypton Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="game_space">Espace de jeu</string>
+    <string name="channel_gaming_mode_status">Statut du mode jeu</string>
+    <string name="action_stop_gaming_mode">Stop</string>
+    <string name="gaming_mode_active">Mode jeu actif</string>
+    <string name="battery_format">Batterie : <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">Performance</string>
+    <string name="power_save">Économie d\'énergie</string>
+    <string name="qs_auto_brightness">Luminosité automatique</string>
+    <string name="qs_notification_overlay">Superposition de notifications</string>
+    <string name="qs_ringer_mode">Mode silencieux</string>
+    <string name="qs_lock_gesture">Geste de verrouillage</string>
+    <string name="qs_screen_capture">Capture d\'écran</string>
+    <string name="enable_gaming_mode">Activer le mode jeu</string>
+    <string name="gaming_mode_intro_text">Fonctionnalités supplémentaires pour une expérience de jeu immersive</string>
+    <string name="gaming_mode_disable_auto_brightness_title">Désactiver la luminosité automatique</string>
+    <string name="gaming_mode_disable_auto_brightness_summary">Désactiver la luminosité automatique lorsque vous entrez en mode jeu</string>
+    <string name="gaming_mode_notification_overlay_title">Superposition de notifications</string>
+    <string name="gaming_mode_notification_overlay_summary">Afficher le contenu de la notification comme une superposition transparente en haut</string>
+    <string name="gaming_mode_menu_opacity_title">Niveau d\'opacité du menu de superposition</string>
+    <string name="gaming_mode_performance">Performance</string>
+    <string name="gaming_mode_change_performance_title">Réglage des performances</string>
+    <string name="gaming_mode_change_performance_summary">Ajuster le niveau de performance au démarrage de la partie</string>
+    <string name="gaming_mode_performance_title">Niveau de performance</string>
+    <string name="gaming_mode_dnd">Ne pas déranger</string>
+    <string name="gaming_mode_disable_notification_alert_title">Désactiver les notifications</string>
+    <string name="gaming_mode_disable_notification_alert_summary">Ne pas autoriser les bulles flottantes de notification et de conversation autres que les appels et les alarmes entrants</string>
+    <string name="gaming_mode_disable_ringtone_title">Pas de sonnerie</string>
+    <string name="gaming_mode_disable_ringtone_summary">Désactiver la sonnerie des appels entrants et des notifications en mode jeu</string>
+    <string name="gaming_mode_auto_answer_call_title">Répondre automatiquement aux appels</string>
+    <string name="gaming_mode_auto_answer_call_summary">Répondre aux appels automatiquement dans le jeu et les mains libres quand aucun casque n\'est connecté</string>
+    <string name="gaming_mode_prevent_accidental_touch">Empêcher un contact accidentel</string>
+    <string name="gaming_mode_disable_gesture_title">Désactiver la navigation par gestes</string>
+    <string name="gaming_mode_apps_title">Liste des jeux</string>
+    <string name="gaming_mode_apps_summary">Sélectionnez les applications pour lancer le mode de jeu lorsque vous les ouvrez</string>
+    <string name="gaming_mode_dynamic_add_title">Mode dynamique</string>
+    <string name="gaming_mode_dynamic_add_summary">Détecte les jeux à l\'ouverture et les ajoute automatiquement à la liste</string>
+    <string name="gaming_mode_show_notification_overlay_title">Activer les notifications superposées</string>
+    <string name="gaming_mode_dynamic_notification_filter_title">Notification de filtrage dynamique</string>
+    <string name="gaming_mode_dynamic_notification_filter_summary">Filtrer automatiquement les notifications telles que la progression du téléchargement</string>
+    <string name="gaming_mode_notification_overlay_size_landscape_title">Taille de la superposition en mode paysage</string>
+    <string name="gaming_mode_notification_overlay_size_portrait_title">Taille de la superposition en mode portrait</string>
+    <string name="gaming_mode_notification_overlay_blacklist_title">Applications sur la liste noire</string>
+    <string name="gaming_mode_notification_overlay_blacklist_summary">Empêcher les applications sélectionnées d\'afficher la surcouche de notification en jouant</string>
+    <string name="search">Rechercher</string>
+    <string name="search_apps">Rechercher des applications</string>
+    <string name="application_icon">Icône de l\'application</string>
+    <string name="performance_level">Niveau de performance</string>
+    <string name="gaming_mode_miscellaneous">Divers</string>
+    <string name="gaming_mode_disable_adb_title">Désactiver le débogage USB</string>
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Valeur : <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">par défaut</string>
+    <string name="custom_seekbar_default_value_to_set">Valeur par défaut : <xliff:g id="v">%s</xliff:g>\nRester appuyer pour définir</string>
+    <string name="custom_seekbar_default_value_is_set">Valeur par défaut définie</string>
+</resources>

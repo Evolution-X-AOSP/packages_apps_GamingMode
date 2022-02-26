@@ -44,7 +44,7 @@
     <string name="gaming_mode_disable_notification_alert_summary">Não permitir notificações flutuantes e balões de conversa que não sejam chamadas e alarmes</string>
     <string name="gaming_mode_disable_ringtone_title">Sem toque</string>
     <string name="gaming_mode_disable_ringtone_summary">Desativar o toque das chamadas recebidas e notificações quando o modo de jogo estiver ativado</string>
-    <string name="gaming_mode_auto_answer_call_title">Atendimento automático de chamadas</string>
+    <string name="gaming_mode_auto_answer_call_title">Atender chamadas automaticamente</string>
     <string name="gaming_mode_auto_answer_call_summary">Atender chamadas automaticamente no viva-voz quando nenhum fone estiver conectado</string>
     <string name="gaming_mode_prevent_accidental_touch">Evitar toques acidentais</string>
     <string name="gaming_mode_disable_gesture_title">Desativar gestos de deslizar</string>
