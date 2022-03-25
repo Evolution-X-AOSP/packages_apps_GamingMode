@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="game_space">Ruang Permainan</string>
-    <string name="channel_gaming_mode_status">Status mode permainan</string>
+    <string name="game_space">Ruang Game</string>
+    <string name="channel_gaming_mode_status">Status mode game</string>
     <string name="action_stop_gaming_mode">Berhenti</string>
     <string name="gaming_mode_active">Mode permainan aktif</string>
     <string name="battery_format">Baterai: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
@@ -28,10 +28,10 @@
     <string name="qs_ringer_mode">Mode senyap</string>
     <string name="qs_lock_gesture">Kunci gestur</string>
     <string name="qs_screen_capture">Tangkapan Layar</string>
-    <string name="enable_gaming_mode">Aktifkan Mode Permainan</string>
+    <string name="enable_gaming_mode">Aktifkan Mode Game</string>
     <string name="gaming_mode_intro_text">Fitur ekstra untuk pengalaman bermain game yang impresif</string>
     <string name="gaming_mode_disable_auto_brightness_title">Nonaktifkan kecerahan otomatis</string>
-    <string name="gaming_mode_disable_auto_brightness_summary">Nonaktifkan kecerahan otomatis saat memasuki mode permainan</string>
+    <string name="gaming_mode_disable_auto_brightness_summary">Nonaktifkan kecerahan otomatis saat memasuki mode game</string>
     <string name="gaming_mode_notification_overlay_title">Hamparan notifikasi</string>
     <string name="gaming_mode_notification_overlay_summary">Tampilkan konten notifikasi sebagai hamparan transparan di atas</string>
     <string name="gaming_mode_menu_opacity_title">Tingkat opasitas hamparan menu</string>
@@ -43,13 +43,13 @@
     <string name="gaming_mode_disable_notification_alert_title">Nonaktifkan peringatan notifikasi</string>
     <string name="gaming_mode_disable_notification_alert_summary">Jangan izinkan notifikasi mengambang dan gelembung percakapan selain panggilan masuk dan alarm</string>
     <string name="gaming_mode_disable_ringtone_title">Tidak berdering</string>
-    <string name="gaming_mode_disable_ringtone_summary">Matikan dering panggilan masuk dan notifikasi dalam mode permainan</string>
+    <string name="gaming_mode_disable_ringtone_summary">Matikan dering panggilan masuk dan notifikasi dalam mode game</string>
     <string name="gaming_mode_auto_answer_call_title">Menjawab panggilan otomatis</string>
     <string name="gaming_mode_auto_answer_call_summary">Jawab panggilan secara otomatis dalam game dan handsfree saat tidak ada headphone yang terhubung</string>
     <string name="gaming_mode_prevent_accidental_touch">Cegah sentuhan yang tidak disengaja</string>
     <string name="gaming_mode_disable_gesture_title">Nonaktifkan gestur usap</string>
     <string name="gaming_mode_apps_title">Daftar game</string>
-    <string name="gaming_mode_apps_summary">Pilih aplikasi untuk meluncurkan mode permainan saat Anda membukanya</string>
+    <string name="gaming_mode_apps_summary">Pilih aplikasi untuk meluncurkan mode game saat Anda membukanya</string>
     <string name="gaming_mode_dynamic_add_title">Mode dinamis</string>
     <string name="gaming_mode_dynamic_add_summary">Mendeteksi game saat dibuka dan secara otomatis menambahkannya ke daftar</string>
     <string name="gaming_mode_show_notification_overlay_title">Aktifkan hamparan notifikasi</string>
