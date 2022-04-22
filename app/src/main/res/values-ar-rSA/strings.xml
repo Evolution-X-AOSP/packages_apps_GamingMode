@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The exTHmUI Open Source Project
+     Copyright (C) 2021 AOSP-Krypton Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="game_space">مساحة الألعاب</string>
+    <string name="channel_gaming_mode_status">حالة وضع الألعاب</string>
+    <string name="action_stop_gaming_mode">توقف</string>
+    <string name="gaming_mode_active">وضع الألعاب نشط</string>
+    <string name="battery_format">البطارية: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">الأداء</string>
+    <string name="power_save">توفير الطاقة</string>
+    <string name="qs_auto_brightness">السطوع التلقائي</string>
+    <string name="qs_notification_overlay">تراكب الإشعارات</string>
+    <string name="qs_ringer_mode">الوضع الصامت</string>
+    <string name="qs_lock_gesture">قفل الإيماءة</string>
+    <string name="qs_screen_capture">لقطة شاشة</string>
+    <string name="enable_gaming_mode">تمكين وضع الألعاب</string>
+    <string name="gaming_mode_intro_text">ميزات إضافية لتجربة الألعاب الغامرة</string>
+    <string name="gaming_mode_disable_auto_brightness_title">تعطيل السطوع التلقائي</string>
+    <string name="gaming_mode_disable_auto_brightness_summary">تعطيل السطوع التلقائي عند الدخول في وضع الألعاب</string>
+    <string name="gaming_mode_notification_overlay_title">تراكب الإشعارات</string>
+    <string name="gaming_mode_notification_overlay_summary">عرض محتوى الإشعارات كتراكب شفاف في الأعلى</string>
+    <string name="gaming_mode_menu_opacity_title">مستوى عتامة القائمة</string>
+    <string name="gaming_mode_performance">الأداء</string>
+    <string name="gaming_mode_change_performance_title">ضبط الأداء</string>
+    <string name="gaming_mode_change_performance_summary">ضبط مستوى الأداء عند بدء اللعبة</string>
+    <string name="gaming_mode_performance_title">مستوى الأداء</string>
+    <string name="gaming_mode_dnd">عدم الإزعاج</string>
+    <string name="gaming_mode_disable_notification_alert_title">تعطيل تنبيه الإشعار</string>
+    <string name="gaming_mode_disable_notification_alert_summary">لا تسمح بفقاعات الإشعارات والمحادثة الطافية غير المكالمات الواردة والتنبيهات</string>
+    <string name="gaming_mode_disable_ringtone_title">لا رنين</string>
+    <string name="gaming_mode_disable_ringtone_summary">إيقاف رنين المكالمات الواردة والإشعارات في وضع الألعاب</string>
+    <string name="gaming_mode_auto_answer_call_title">الرد على المكالمات تلقائياً</string>
+    <string name="gaming_mode_auto_answer_call_summary">قم بالرد على المكالمات تلقائيًا في اللعبة وبدون استخدام اليدين عند عدم توصيل سماعات رأس</string>
+    <string name="gaming_mode_prevent_accidental_touch">منع اللمس العرضي</string>
+    <string name="gaming_mode_disable_gesture_title">تعطيل إيماءات السحب</string>
+    <string name="gaming_mode_apps_title">قائمة الألعاب</string>
+    <string name="gaming_mode_apps_summary">حدد التطبيقات لتشغيل وضع الألعاب عند فتحها</string>
+    <string name="gaming_mode_dynamic_add_title">الوضع الديناميكي</string>
+    <string name="gaming_mode_dynamic_add_summary">يكتشف الألعاب عند الفتح وإضافتها تلقائياً إلى القائمة</string>
+    <string name="gaming_mode_show_notification_overlay_title">تمكين تراكب الإشعارات</string>
+    <string name="gaming_mode_dynamic_notification_filter_title">اشعار التصفية الديناميكية</string>
+    <string name="gaming_mode_dynamic_notification_filter_summary">تصفية الإشعارات تلقائياً مثل تقدم التحميل</string>
+    <string name="gaming_mode_notification_overlay_size_landscape_title">الحجم التراكبي في الوضع الأفقي</string>
+    <string name="gaming_mode_notification_overlay_size_portrait_title">حجم التراكب في الوضع العمودي</string>
+    <string name="gaming_mode_notification_overlay_blacklist_title">تطبيقات القائمة السوداء</string>
+    <string name="gaming_mode_notification_overlay_blacklist_summary">منع التطبيقات المحددة من إظهار تراكب الإشعارات أثناء اللعب</string>
+    <string name="search">البحث</string>
+    <string name="search_apps">البحث عن التطبيقات</string>
+    <string name="application_icon">أيقونة التطبيق</string>
+    <string name="performance_level">مستوى الأداء</string>
+    <string name="gaming_mode_miscellaneous">متفرقات</string>
+    <string name="gaming_mode_disable_adb_title">تعطيل تصحيح أخطاء USB</string>
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">القيمة: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">بشكل افتراضي</string>
+    <string name="custom_seekbar_default_value_to_set">القيمة الافتراضية: <xliff:g id="v">%s</xliff:g>\nانقر لفترة طويلة للتعيين</string>
+    <string name="custom_seekbar_default_value_is_set">تم تعيين القيمة الافتراضية</string>
+</resources>
