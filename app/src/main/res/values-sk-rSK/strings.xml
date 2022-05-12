@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The exTHmUI Open Source Project
+     Copyright (C) 2021 AOSP-Krypton Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="game_space">Herný priestor</string>
+    <string name="channel_gaming_mode_status">Stav herného režimu</string>
+    <string name="action_stop_gaming_mode">Stop</string>
+    <string name="gaming_mode_active">Herný režim je aktívny</string>
+    <string name="battery_format">Batéria: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">Výkon</string>
+    <string name="power_save">Úspora energie</string>
+    <string name="qs_auto_brightness">Automatický jas</string>
+    <string name="qs_notification_overlay">Prekrytie upozornení</string>
+    <string name="qs_ringer_mode">Tichý režim</string>
+    <string name="qs_lock_gesture">Gesto uzamknutia</string>
+    <string name="qs_screen_capture">Snímka obrazovky</string>
+    <string name="enable_gaming_mode">Zapnúť Herný režim</string>
+    <string name="gaming_mode_intro_text">Ďalšie funkcie pre pohlcujúci herný zážitok</string>
+    <string name="gaming_mode_disable_auto_brightness_title">Zakázať automatický jas</string>
+    <string name="gaming_mode_disable_auto_brightness_summary">Zakázať automatický jas pri vstupe do herného režimu</string>
+    <string name="gaming_mode_notification_overlay_title">Prekrytie upozornení</string>
+    <string name="gaming_mode_notification_overlay_summary">Zobraztiť obsah upozornení ako priehľadné prekrytie navrchu</string>
+    <string name="gaming_mode_menu_opacity_title">Úroveň nepriehľadnosti ponuky prekrytia</string>
+    <string name="gaming_mode_performance">Výkon</string>
+    <string name="gaming_mode_change_performance_title">Ladenie výkonu</string>
+    <string name="gaming_mode_change_performance_summary">Upravte úroveň výkonu pri spustení hry</string>
+    <string name="gaming_mode_performance_title">Výkonnostná úroveň</string>
+    <string name="gaming_mode_dnd">Nevyrušovať</string>
+    <string name="gaming_mode_disable_notification_alert_title">Vypnút oznámenia</string>
+    <string name="gaming_mode_disable_notification_alert_summary">Nepovoľiť plávajúce bubliny upozornení a konverzácií okrem prichádzajúcich hovorov a budíkov</string>
+    <string name="gaming_mode_disable_ringtone_title">Žiadne zvonenie</string>
+    <string name="gaming_mode_disable_ringtone_summary">Vypnite zvonenie prichádzajúcich hovorov a upozornení v hernom režime</string>
+    <string name="gaming_mode_auto_answer_call_title">Prijímať hovory automaticky</string>
+    <string name="gaming_mode_auto_answer_call_summary">Prijímajte hovory automaticky v hre a handsfree, keď nie sú pripojené žiadne slúchadlá</string>
+    <string name="gaming_mode_prevent_accidental_touch">Zabránenie náhodnému dotyku</string>
+    <string name="gaming_mode_disable_gesture_title">Zakázať gestá potiahnutia</string>
+    <string name="gaming_mode_apps_title">Zoznam Hier</string>
+    <string name="gaming_mode_apps_summary">Vyberte aplikácie na spustenie herného režimu, keď ich otvoríte</string>
+    <string name="gaming_mode_dynamic_add_title">Dynamický režim</string>
+    <string name="gaming_mode_dynamic_add_summary">Rozpozná hry pri otvorení a automaticky ich pridá do zoznamu</string>
+    <string name="gaming_mode_show_notification_overlay_title">Povoliť prekrytie upozornení</string>
+    <string name="gaming_mode_dynamic_notification_filter_title">Upozornenie dynamického filtrovania</string>
+    <string name="gaming_mode_dynamic_notification_filter_summary">Automaticky filtrovať upozornenia, ako napríklad priebeh sťahovania</string>
+    <string name="gaming_mode_notification_overlay_size_landscape_title">Veľkosť prekrytia v režime na šírku</string>
+    <string name="gaming_mode_notification_overlay_size_portrait_title">Veľkosť prekrytia v režime na výšku</string>
+    <string name="gaming_mode_notification_overlay_blacklist_title">Zakázané zplikácie</string>
+    <string name="gaming_mode_notification_overlay_blacklist_summary">Zabrániť vybraným aplikáciám zobrazovať prekrytie upozornení počas hrania</string>
+    <string name="search">Hľadať</string>
+    <string name="search_apps">Vyhľadať aplikácie</string>
+    <string name="application_icon">Ikona aplikácie</string>
+    <string name="performance_level">Výkonnostná úroveň</string>
+    <string name="gaming_mode_miscellaneous">Rôzne</string>
+    <string name="gaming_mode_disable_adb_title">Zakázať ladenie USB</string>
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Hodnota: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">predvolené</string>
+    <string name="custom_seekbar_default_value_to_set">Predvolená hodnota: <xliff:g id="v">%s</xliff:g>\nNastavte dlhým klepnutím</string>
+    <string name="custom_seekbar_default_value_is_set">Predvolená hodnota je nastavená</string>
+</resources>
